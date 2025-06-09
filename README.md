@@ -52,8 +52,6 @@ Open the project in Android Studio
 Build and Run the project on your emulator or a physical Android device
 
 📂 Project Structure
-plaintext
-Copy code
 📁 app/
  ┣ 📁 src/
  ┃ ┣ 📁 main/
@@ -64,21 +62,21 @@ Copy code
  ┃ ┃ ┃ ┣ 📁 values/     # Colors, strings, styles
  ┃ ┃ ┣ AndroidManifest.xml
  ┣ build.gradle
+
 🧪 How to Play
 Tap any square on the 3x3 grid to place your mark.
 Players take turns placing ❌ and ⭕ on the grid.
 First to align three marks in a row wins!
 If all squares are filled and no one wins, it's a draw!
+
 🙌 Contributing
 We welcome any contributions! Whether it's fixing bugs, improving the UI, or suggesting new features, feel free to fork the repository and submit your changes.
 
 Steps for contributing:
-
-bash
-Copy code
 git checkout -b feature/your-feature-name
 git commit -m "Description of the feature or fix"
 git push origin feature/your-feature-name
+
 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
@@ -91,6 +89,7 @@ Special thanks to everyone who made Tic Tac Toe the timeless game it is today! �
  Leaderboard & player statistics
  Sound effects & animations 🎶✨
  Online multiplayer mode (coming soon!)
+
 Made with ❤️ using Kotlin and XML in Android Studio
 
 Let the battle of ❌ vs ⭕ begin! 🔥
