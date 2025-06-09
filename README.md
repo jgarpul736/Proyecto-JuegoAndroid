@@ -18,13 +18,7 @@ Tic Tac Toe is a classic two-player game where the goal is to get three marks (�
 - 🧠 **Intelligent game logic** to detect win, loss, and draw
 - 🌙 **Dark Mode support**
 - 💾 **Fast and efficient** — Lightweight and easy to run
-
----
-
-## 📸 Screenshots
-
-> _Insert your screenshots here to show off the app’s interface and gameplay!_
-
+  
 ---
 
 ## 🛠️ Built With
