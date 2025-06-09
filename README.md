@@ -1,97 +1,119 @@
 # ❌⭕ Tic Tac Toe - Android Edition 🎮
 
-Welcome to **Tic Tac Toe**, the iconic game reimagined for Android! Build in **Android Studio** with a beautiful **XML** layout and sleek **Kotlin** code, this game lets you challenge your friends, sharpen your brain, and enjoy the timeless fun of Tic Tac Toe on your mobile device. 📱🎉
+Welcome to **Tic Tac Toe**, the iconic game reimagined for Android! Built in **Android Studio** with a beautiful **XML** layout and sleek **Kotlin** code, this game lets you challenge your friends, sharpen your brain, and enjoy the timeless fun of Tic Tac Toe on your mobile device. 📱🎉
 
 ---
 
 ## 🧠 About the Game
 
-Tic Tac Toe is a classic two-player game where the goal is to get three marks (❌ or ⭕) in a row. Play either on a single device with a friend or (soon) challenge an AI opponent. Simple, but always engaging! 
+Tic Tac Toe is a classic two-player game where the goal is to get three marks (❌ or ⭕) in a row. Play on a single device with a friend or (soon) challenge an AI opponent. Simple, but always engaging!
 
 ---
 
 ## ✨ Features
 
-- 🎨 **Smooth and responsive UI** built with XML for perfect mobile experience
-- 👥 **Two-player mode** — Play with a friend on the same device
-- 🤖 **Single-player mode** — Plan for AI opponent in the future!
-- 🧠 **Intelligent game logic** to detect win, loss, and draw
-- 🌙 **Dark Mode support**
-- 💾 **Fast and efficient** — Lightweight and easy to run
-  
+* 🎨 **Smooth and responsive UI** built with XML for a perfect mobile experience
+* 👥 **Two-player mode** — Play with a friend on the same device
+* 🤖 **Single-player mode** — AI opponent planned for future updates
+* 🧠 **Smart game logic** to detect win, loss, and draw
+* 🌙 **Dark Mode support**
+* 💾 **Lightweight and fast** — easy to install and run on most devices
+
 ---
 
 ## 🛠️ Built With
 
-- **Android Studio**
-- **Kotlin** (for app logic and programming)
-- **XML** (for UI layouts)
-- **LiveData & ViewModel** (for efficient data handling)
-- **Jetpack libraries** (if used)
+* **Android Studio**
+* **Kotlin** (app logic and functionality)
+* **XML** (user interface layouts)
+* **LiveData & ViewModel** (efficient data handling)
 
 ---
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### ✅ Prerequisites
 
-Make sure you have the following installed:
+* **Android Studio** (latest version recommended)
+* **Android SDK 21+**
 
-- **Android Studio** (latest version recommended)
-- **Android SDK 21+**
-
-### Installation
-
-To get this project running on your local machine, follow these steps:
+### 📦 Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe-android.git
-Open the project in Android Studio
+   ```
+2. **Open the project in Android Studio**
+3. **Build and Run** on an emulator or physical Android device
 
-Build and Run the project on your emulator or a physical Android device
+---
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 📁 app/
  ┣ 📁 src/
  ┃ ┣ 📁 main/
  ┃ ┃ ┣ 📁 java/com/your/package/
  ┃ ┃ ┣ 📁 res/
- ┃ ┃ ┃ ┣ 📁 layout/     # XML layouts for the UI
- ┃ ┃ ┃ ┣ 📁 drawable/   # Images & icons (if any)
- ┃ ┃ ┃ ┣ 📁 values/     # Colors, strings, styles
+ ┃ ┃ ┃ ┣ 📁 layout/      # XML layouts for the UI
+ ┃ ┃ ┃ ┣ 📁 drawable/    # Images & icons
+ ┃ ┃ ┃ ┣ 📁 values/      # Strings, colors, styles
  ┃ ┃ ┣ AndroidManifest.xml
  ┣ build.gradle
+```
 
- 
+---
 
-🧪 How to Play
-Tap any square on the 3x3 grid to place your mark.
-Players take turns placing ❌ and ⭕ on the grid.
-First to align three marks in a row wins!
-If all squares are filled and no one wins, it's a draw!
+## 🧪 How to Play
 
-🙌 Contributing
-We welcome any contributions! Whether it's fixing bugs, improving the UI, or suggesting new features, feel free to fork the repository and submit your changes.
+* Tap any square on the 3x3 grid to place your mark
+* Players take turns placing ❌ and ⭕
+* The first to align three marks in a row wins
+* If all squares are filled and no one wins, it’s a draw
 
-Steps for contributing:
+---
+
+## 🙌 Contributing
+
+We welcome contributions! Whether it’s fixing bugs, improving UI, or suggesting new features — feel free to fork the repo and submit your changes.
+
+Steps to contribute:
+
+```bash
 git checkout -b feature/your-feature-name
 git commit -m "Description of the feature or fix"
 git push origin feature/your-feature-name
+```
 
-📜 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+---
 
-🎉 Acknowledgements
-Thanks to the open-source community for sharing knowledge on Android development and Kotlin.
-Special thanks to everyone who made Tic Tac Toe the timeless game it is today! 🏆
+## 📜 License
 
-🤖 Upcoming Features
- AI opponent (difficulty levels)
- Leaderboard & player statistics
- Sound effects & animations 🎶✨
- Online multiplayer mode (coming soon!)
+This project is licensed under the **MIT License**
 
-Made with ❤️ using Kotlin and XML in Android Studio
+---
 
+## 🎉 Acknowledgements
+
+Thanks to the open-source community for sharing knowledge on Android and Kotlin.
+Special thanks to everyone who helped make Tic Tac Toe a timeless classic! 🏆
+
+---
+
+## 🤖 Upcoming Features
+
+* AI opponent with difficulty levels
+* Leaderboard & player statistics
+* Sound effects & animations 🎶
+* Online multiplayer mode (coming soon!)
+
+---
+
+Made with ❤️ using Kotlin and XML in Android Studio.
 Let the battle of ❌ vs ⭕ begin! 🔥
+
+---
+
+¿Quieres que lo guarde en un archivo `README.md`?
